@@ -2,7 +2,7 @@
 // MovieCollectionViewCell.swift
 // LabExp7CollectionView
 //
-// Created by Dr. Aslam B Nandyal on 06/03/26.
+// Created by SHIRO on 06/03/26.
 //
 import UIKit
 class MovieCollectionViewCell: UICollectionViewCell {
